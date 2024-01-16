@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **every thing** 🤣
 
-- 👨‍💻 All of my projects are available at [https://github.com/mictree/](https://github.com/mictree/)
+- 👨‍💻 All of my projects are available at [https://github.com/mictree/](https://github.com/mtrivoz/)
 
 - 📫 How to reach me **vmtri20@gmail.com**
 
@@ -42,4 +42,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mictree&show_icons=true&locale=en&layout=compact" alt="mtri-git" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtrivoz&show_icons=true&locale=en&layout=compact" alt="mtri-git" /></p>
