@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **every thing** 🤣
 
-- 👨‍💻 All of my projects are available at [https://github.com/mictree/](https://github.com/mtrivoz/)
+- 👨‍💻 All of my projects are available at [https://github.com/mictree/](https://github.com/mtri-git/)
 
 - 📫 How to reach me **vmtri20@gmail.com**
 
