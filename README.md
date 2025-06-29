@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **every thing** 🤣
 
-- 🎉 My online porfolio: [https://vominhtri.vercel.app/](https://vominhtri.vercel.app/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mtri-git/](https://github.com/mtri-git/)
 
 - 📫 How to reach me **vmtri20@gmail.com**
